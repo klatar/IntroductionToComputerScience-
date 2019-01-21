@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<supermarket>
+	<department1>
+		<Aisle1>
+            <shelve1>
+                <products>
+                    <Lipton category="tea">
+                        <origin>England</origin>
+                        <manufacturer>Lipton ice tea</manufacturer>
+                        <expiration_date>04/12/2018</expiration_date>
+                        <price>0.99€</price>
+                    </Lipton>
+
+
+                    <Beer category="Drinks">
+                        <origin>German</origin>
+                        <manufacturer>Schneider Weisse</manufacturer>
+                        <expiration_date>16/04/2021</expiration_date>
+                        <price>3.52€</price>
+                    </Beer>
+                <!--.
+                    .etcc
+                    .etcc
+                    . -->
+                </products>
+            </shelve1>
+        </Aisle1>
+    		<!--.
+    			.
+    			.
+    			.-->
+    </department1>
+    <department2>
+    	<Aisle1>
+            <shelve1>
+                <products>
+                    <Dove category="deodorant">
+                        <origin>Belgium</origin>
+                        <manufacturer>Dove</manufacturer>
+                        <expiration_date>23/01/2021</expiration_date>
+                        <price>4.99€</price>
+                    </Dove>
+
+
+                    <Spaghetti category="pasta">
+                        <origin>Italy</origin>
+                        <manufacturer>Pannucci</manufacturer>
+                        <expiration_date>14/05/2020</expiration_date>
+                        <price>3.45€</price>
+                    </Spaghetti>
+    		<!--.
+    			.etcc
+    			.etcc
+    			.-->
+                </products>
+            </shelve1>
+    		<!--.
+    			.
+    			.
+    			.-->
+        </Aisle1>
+    </department2>
+    <department3>
+    	<Aisle1>
+    		<shelve1>
+    			<products>
+    				<T-shirts category="clothes">
+    					<origin>Italy</origin>
+    					<manufacturer>Vesti</manufacturer>
+    					<price>16.99€</price>
+    				</T-shirts>
+    		<!--.
+    			.etcc
+    			.etcc
+    			.-->
+    			</products>
+    		</shelve1>
+    		<!--.
+    			.
+    			.
+    			.-->
+    	</Aisle1>
+    		<!--.
+    			.
+    			.
+    			.-->
+
+    </department3>
+    <department4>
+    	<Aisle1>
+    		<shelve1>
+    			<products>
+    				<Tomatos category="groceries">
+    					<origin>Poland</origin>
+    					<date_brough_in>19/12/2018</date_brough_in>
+    					<price>0.48€/kg</price>
+    				</Tomatos>
+    		<!--.
+    			.etcc
+    			.etcc
+    			.-->
+    			</products>
+    		</shelve1>
+    		<!--.
+    			.
+    			.
+    			.-->
+    	</Aisle1>
+    		<!--.
+    			.
+    			.
+    			.-->
+    </department4>
+    		<!--.
+    			.
+    			.
+    			.-->
+
+</supermarket>
+
+
+
+
